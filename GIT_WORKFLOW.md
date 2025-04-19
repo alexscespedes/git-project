@@ -1,0 +1,4 @@
+- Commit messages
+- Branch naming conventions
+- Merge strategies
+- Why version control matters
